@@ -10,11 +10,11 @@ Weather forecasting to help farmers plan their activities accordingly.
 Access to agricultural resources and information to improve farming practices.
 Technologies Used:
 
-# JavaFX: For building the user interface and frontend functionalities.
-# Firebase: Used for storing and retrieving crop images and other relevant data.
-# Weather API: Integrated to fetch real-time weather updates for the farmer's location.
+JavaFX: For building the user interface and frontend functionalities.
+Firebase: Used for storing and retrieving crop images and other relevant data.
+Weather API: Integrated to fetch real-time weather updates for the farmer's location.
 
-# Key Features:
+Key Features:
 
 Crop Management: Allows farmers to input and manage details of their crops, including images, planting schedules, and harvesting information.
 
